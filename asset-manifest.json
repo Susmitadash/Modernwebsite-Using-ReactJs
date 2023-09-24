@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Modernwebsite-Using-ReactJs/static/css/main.7f8e5793.css",
+    "main.js": "/Modernwebsite-Using-ReactJs/static/js/main.fa5da840.js",
+    "index.html": "/Modernwebsite-Using-ReactJs/index.html",
+    "main.7f8e5793.css.map": "/Modernwebsite-Using-ReactJs/static/css/main.7f8e5793.css.map",
+    "main.fa5da840.js.map": "/Modernwebsite-Using-ReactJs/static/js/main.fa5da840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f8e5793.css",
+    "static/js/main.fa5da840.js"
+  ]
+}
